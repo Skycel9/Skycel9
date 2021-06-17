@@ -1,6 +1,6 @@
 # Hi everyone 👋
-### I'm a french developper orient web I know some languages like HTML, CSS, JavaScript, C++, python, and I learn other languages like GO and C#
-### Here we can see my stats of coding, languages used and more
+#### I'm a french developper orient web I know some languages like HTML, CSS, JavaScript, C++, python, and I learn other languages like GO and C#
+#### Here we can see my stats of coding, languages used and more
 <!--
 **LACOSTAR91/LACOSTAR91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,4 +35,14 @@ Here are some ideas to get you started:
 
 <a href="https://discords.com/bio/p/LACOSTAR91" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LACOSTAR91&lang=FR&hide=python&theme=radical&bg_color=000000"/>
+</a>
+
+#### Person have read this repository
+<a href="https://discords.com/bio/p/LACOSTAR91" target="_blank">
+  <img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LACOSTAR91&repo=LACOSTAR91&countColorcountColor&countColor=%FFFFFF"/>
+</a>
+
+### The discord server support of my bot for anyone would speak with me
+<a href="https://discord.gg/aasK88k" target="_blank">
+  <img align="center" src="https://discord.com/api/guilds/719575631507226745/widget.png"/>
 </a>
