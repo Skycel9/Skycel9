@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://discord.c99.nl/widget/theme-4/507329636305207308.png"/>
 </a>
 
-##Mes statistiques
+## Mes statistiques
 
 <a href="https://github.com/LACOSTAR91" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LACOSTAR91&count_private=true&show_icons=true&theme=radical&lang=FR"/>
