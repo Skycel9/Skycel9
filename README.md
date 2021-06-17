@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://yzzy-bot.online" target="_blank">
+  <img align="center" src="https://discord.c99.nl/widget/theme-4/507329636305207308.png"/>
+</a>
