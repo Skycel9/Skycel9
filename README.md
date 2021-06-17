@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LACOSTAR91&theme=radical&bg_color=000000&text_color=ffffff"/>
 </a>
 
-## Languages used
+## Languages share on github
 
 <a href="https://discords.com/bio/p/LACOSTAR91" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LACOSTAR91&lang=FR&hide=python&theme=radical&bg_color=000000"/>
