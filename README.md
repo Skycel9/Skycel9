@@ -46,3 +46,6 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/aasK88k" target="_blank">
   <img align="center" src="https://discord.com/api/guilds/719575631507226745/widget.png"/>
 </a>
+<a href="https://discord.gg/aasK88k" target="_blank">
+  <p>My bot discord support</p>
+</a>
