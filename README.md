@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ## Languages share on github
 
 <a href="https://discords.com/bio/p/LACOSTAR91" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LACOSTAR91&lang=FR&hide=python&theme=radical&bg_color=000000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LACOSTAR91&lang=FR&theme=radical&bg_color=000000"/>
 </a>
 
 #### Person have read this repository
