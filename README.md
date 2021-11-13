@@ -1,5 +1,5 @@
 # Hi everyone 👋
-#### I'm a french developper orient web I know some languages like HTML, CSS, JavaScript, C++, python, and I learn other languages like GO and C#
+#### I'm LACOSTAR, 16 years old, french developper orient web I know some languages like HTML, CSS, JavaScript, C++, python, and I learn other languages like GO and C#
 #### Here we can see my stats of coding, languages used and more
 <!--
 **LACOSTAR91/LACOSTAR91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
