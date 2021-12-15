@@ -47,5 +47,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://discord.com/api/guilds/832296913695932428/widget.png"/>
 </a>
 <a href="https://discord.gg/jH6wB3B6s8" target="_blank">
-  <p>My bot discord support</p>
+  <p>Night-Group discord server</p>
 </a>
