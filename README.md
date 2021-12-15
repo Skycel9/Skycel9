@@ -42,10 +42,10 @@ Here are some ideas to get you started:
   <img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LACOSTAR91&repo=LACOSTAR91&countColorcountColor&countColor=%FFFFFF"/>
 </a>
 
-### The discord server support of my bot for anyone would speak with me
-<a href="https://discord.gg/aasK88k" target="_blank">
-  <img align="center" src="https://discord.com/api/guilds/719575631507226745/widget.png"/>
+### The discord server support of Night-Group for anyone would speak with me
+<a href="https://discord.gg/jH6wB3B6s8" target="_blank">
+  <img align="center" src="https://discord.com/api/guilds/832296913695932428/widget.png"/>
 </a>
-<a href="https://discord.gg/aasK88k" target="_blank">
+<a href="https://discord.gg/jH6wB3B6s8" target="_blank">
   <p>My bot discord support</p>
 </a>
