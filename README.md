@@ -18,8 +18,8 @@
  <p align="center"></p>
 <div align="center">
     <a href="https://github.com/LACOSTAR91">
-      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=LACOSTAR91&count_private=true&show_icons=true&include_all_commits=true&theme=radical&bg_color=000000"/>
-      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LACOSTAR91&lang=FR&theme=radical&bg_color=000000&langs_count=7"/>
+      <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api?username=LACOSTAR91&count_private=true&show_icons=true&include_all_commits=true&theme=radical&bg_color=000000"/>
+      <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LACOSTAR91&lang=FR&theme=radical&bg_color=000000&langs_count=7"/>
     </a>
 </div>
   <hr>
