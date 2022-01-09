@@ -91,3 +91,5 @@
     <a href="https://discords.com/bio/p/LACOSTAR91" target="_blank">
       <img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LACOSTAR91&repo=LACOSTAR91&countColorcountColor&countColor=%FFFFFF"/>
     </a>
+
+  Copyright ©️ 2022, <a href="https://github.com/LACOSTAR91">LACOSTAR91</a> (Do not edit the line, keep the original author of this readme)
