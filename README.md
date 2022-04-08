@@ -100,6 +100,6 @@
     </a>
 
   <hr>
-  Copyright ©️ 2022, <a href="https://github.com/LACOSTAR91">LACOSTAR91</a> (Do not edit the line, keep the original author of this readme)
+  Copyright ©️ 2022, <a href="https://github.com/LACOSTAR91">LACOSTAR91</a> (Do not edit the line, keep the original author of this readme)</br>
   No copy the profile without fork it or keep the copyright. Do not become a skid and respect the work of others.
   <!-- Original author: https://github.com/LACOSTAR91 -->
