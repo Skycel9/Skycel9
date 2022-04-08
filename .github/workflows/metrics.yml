@@ -20,7 +20,7 @@ jobs:
           filename: README.md
           markdown: https://raw.githubusercontent.com/LACOSTAR91/LACOSTAR91/main/.github/metrics.template.md
           config_output: markdown
-          base: header, activity, community, repositories, metadata
+          base: header, activity
           config_timezone: Europe/Paris
           plugin_achievements: yes
           plugin_achievements_secrets: yes
