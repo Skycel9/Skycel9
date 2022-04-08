@@ -9,16 +9,18 @@
 <p align="center">
   <a align="center" href="https://discords.com/bio/p/LACOSTAR91" target="_blank">
     <img align="center" src="https://discord.c99.nl/widget/theme-4/507329636305207308.png"/>
+    <!-- Original author: https://github.com/LACOSTAR91 -->
   </a>
 </p>
 
 - 👨‍💻 High school student
-- 📝 I'm currently learning ReactJs, Next.js and Sass
+- 📝 I'm currently learning Flutter, Nest.js and Sass
  
  <p align="center"></p>
 <div align="center">
     <a href="https://github.com/LACOSTAR91">
       <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api?username=LACOSTAR91&count_private=true&show_icons=true&include_all_commits=true&theme=radical&bg_color=000000"/>
+      <!-- Original author: https://github.com/LACOSTAR91 -->
       <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LACOSTAR91&lang=FR&theme=radical&bg_color=000000&langs_count=7"/>
     </a>
 </div>
@@ -33,6 +35,7 @@
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
       </a> 
     </div>
+    <!-- Original author: https://github.com/LACOSTAR91 -->
     <div>
       <p>Night-Group</p>  
       <a href="https://discord.gg/jH6wB3B6s8" target="_blank">
@@ -45,9 +48,11 @@
     <h3> Langages </h3>
     <img align="center" alt="HTML" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
     <img align="center" alt="CSS" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+    <!-- Original author: https://github.com/LACOSTAR91 -->
     <img align="center" alt="JavaScript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
     <img align="center" alt="TypeScript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" alt="Sass" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    <!-- Original author: https://github.com/LACOSTAR91 -->
     <img align="center" alt="Golang" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
     <img align="center" alt="C++" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
   
@@ -71,7 +76,8 @@
      <h3> Code editor </h3> 
      <img align="center" alt="VSCode" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
      <img align="center" alt="Processing" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg">
-     <img align="center" alt="Web Storm" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/768px-WebStorm_Icon.svg.png">
+     <img align="center" alt="Web Storm" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/768px- WebStorm_Icon.svg.png">
+     <!-- Original author: https://github.com/LACOSTAR91 -->
      <img align="center" alt="Arduino" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   
    <hr>
@@ -80,6 +86,7 @@
      <img align="center" alt="Git" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
      <img align="center" alt="Github" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
      <img align="center" alt="NodeJS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+     <!-- Original author: https://github.com/LACOSTAR91 -->
      <img align="center" alt="Yarn" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg">
      <img align="center" alt="Figma" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
      <img align="center" alt="Trello" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
@@ -94,3 +101,5 @@
 
   <hr>
   Copyright ©️ 2022, <a href="https://github.com/LACOSTAR91">LACOSTAR91</a> (Do not edit the line, keep the original author of this readme)
+  No copy the profile without fork it or keep the copyright. Do not become a skid and respect the work of others.
+  <!-- Original author: https://github.com/LACOSTAR91 -->
