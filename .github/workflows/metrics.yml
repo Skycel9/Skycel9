@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
-          user: xHyroM
+          user: LACOSTAR91
           template: markdown
           filename: README.md
           markdown: https://raw.githubusercontent.com/LACOSTAR91/LACOSTAR91/main/.github/metrics.template.md
