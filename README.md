@@ -70,7 +70,7 @@
    <h3> OS </h3> 
    <img align="center" alt="Debian" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg">
     <img align="center" alt="Ubuntu" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
-   <img align="center" alt="Windowns" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+   <img align="center" alt="Windows" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
    
   <hr>
      <h3> Code editor </h3> 
