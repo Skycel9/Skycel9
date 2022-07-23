@@ -7,8 +7,8 @@
 <br>
 
 <p align="center">
-  <a align="center" href="https://discords.com/bio/p/LACOSTAR91" target="_blank">
-    <img align="center" src="https://discord.c99.nl/widget/theme-4/507329636305207308.png"/>
+  <a align="center" href="https://lacostar.fr" target="_blank">
+    <img align="center" src="https://lanyard.cnrad.dev/api/507329636305207308?bg=0d1117&animated=true"/>
     <!-- Original author: https://github.com/LACOSTAR91 -->
   </a>
 </p>
@@ -18,7 +18,7 @@
  
  <p align="center"></p>
 <div align="center">
-    <a href="https://github.com/LACOSTAR91">
+    <a href="https://lacostar.fr">
       <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api?username=LACOSTAR91&count_private=true&show_icons=true&include_all_commits=true&theme=radical&bg_color=000000"/>
       <!-- Original author: https://github.com/LACOSTAR91 -->
       <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LACOSTAR91&lang=FR&theme=radical&bg_color=000000&langs_count=7"/>
@@ -95,7 +95,7 @@
   
   <hr>
     <h3>Person who read this repository</h3>
-    <a href="https://discords.com/bio/p/LACOSTAR91" target="_blank">
+    <a href="https://lacostar.fr" target="_blank">
       <img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LACOSTAR91&repo=LACOSTAR91&countColorcountColor&countColor=%FFFFFF"/>
     </a>
 
