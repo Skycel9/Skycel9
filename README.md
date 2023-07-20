@@ -9,6 +9,7 @@
 <p align="center">
   <a align="center" href="https://skycel.me" target="_blank">
     <img align="center" src="https://lanyard.cnrad.dev/api/369513168063692801?bg=0d1117&animated=true"/>
+    <img align="center" src="https://wakatime.com/badge/user/6f86dd8c-7945-4dc2-9165-eb708274af42.svg"/>
     <!-- Original author: https://github.com/LACOSTAR91 -->
   </a>
 </p>
